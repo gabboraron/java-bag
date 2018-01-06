@@ -9,3 +9,5 @@
 - - Ha 0-ra csökken a darabszám, vegye ki a megfelelő kulcs-érték párt a map-ből, hogy ne tároljunk feleslegesen adatokat. (Ehhez keressünk megfelelő metódust a java.util.Map interfészben.)
 - - Ha az elem nem volt a zsákban, dobjunk NotInBagException nem ellenőrzött kivételt (származzon a RuntimeException-ből).
 - Teszteljük le a zsák osztályunkat.
+
+http://kitlei.web.elte.hu/segedanyagok/felev/2017-2018-osz/java-hun/feladatok.html
